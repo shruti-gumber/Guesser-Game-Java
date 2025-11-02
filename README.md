@@ -13,6 +13,3 @@ How to Run:
 3. Compile and run GuesserGame.java.
 4. Follow the on-screen instructions to play the game.
 
-Technologies Used:
--Java
--IntelliJ IDEA / VS Code
